@@ -7,6 +7,8 @@
 
 ## [PostgreSQL](https://www.postgresql.org/)
 <ul>
+  <li><a href="https://www.postgresql.org/download/">PostgreSQL Installation</a></li>
+  
   <li><a href="https://www.postgresqltutorial.com/">PostgreSQL Tutorial</a></li>
 </ul>
 
