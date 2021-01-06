@@ -1,6 +1,8 @@
 ## References
 <ul>
   <li><a href="https://opensource.com/article/18/10/common-network-ports">14 common network ports you should know</a></li>
+  
+  <li><a href="https://opensource.com/article/18/10/common-network-ports">ACID Properties in DBMS</a></li>
 </ul>
 
 ## Tips
