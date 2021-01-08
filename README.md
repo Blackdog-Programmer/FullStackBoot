@@ -15,7 +15,7 @@
   
 </ul>
 
-### [pgAdmin](https://www.pgadmin.org/)
+### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
 
 ## Tips
 <ul>
