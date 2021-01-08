@@ -12,7 +12,10 @@
   <li><a href="https://www.postgresqltutorial.com/">PostgreSQL Tutorial</a></li>
   
   <li><a href="https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html">How to start, stop, and restart a postgresql server</a></li>
+  
 </ul>
+
+### [pgAdmin](https://www.pgadmin.org/)
 
 ## Tips
 <ul>
