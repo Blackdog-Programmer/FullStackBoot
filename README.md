@@ -20,6 +20,8 @@
   <li><a href="https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/">How to Install PostgreSQL and pgAdmin4 in Ubuntu 20.04</a></li>
 </ul>
 
+### [psycopg2 - DBAPIs for Python to Postgres](https://pypi.org/project/psycopg2/)
+
 ## Tips
 <ul>
   <li><a href="https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means">What Having a “Growth Mindset” Actually Means</a></li>
