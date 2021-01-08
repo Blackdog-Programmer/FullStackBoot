@@ -16,6 +16,9 @@
 </ul>
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
+<ul>
+  <li><a href="https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/">How to Install PostgreSQL and pgAdmin4 in Ubuntu 20.04</a></li>
+</ul>
 
 ## Tips
 <ul>
