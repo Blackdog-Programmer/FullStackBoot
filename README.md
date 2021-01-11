@@ -20,7 +20,7 @@
   <li><a href="https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/">How to Install PostgreSQL and pgAdmin4 in Ubuntu 20.04</a></li>
 </ul>
 
-### [psycopg2 - Python DB API for PostgreSQL](https://pypi.org/project/psycopg2/)
+### [psycopg2 - Python DB API for PostgreSQL](https://www.psycopg.org/docs/)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
   
