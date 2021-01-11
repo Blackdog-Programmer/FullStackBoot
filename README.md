@@ -23,6 +23,8 @@
 ### [psycopg2 - Python DB API for PostgreSQL](https://pypi.org/project/psycopg2/)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
+  
+  <li><a href="https://www.psycopg.org/docs/usage.html">Basic Module Usage</a></li>
 </ul>
 
 ## Tips
