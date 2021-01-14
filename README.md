@@ -19,6 +19,7 @@
   <li><a href="https://www.postgresqltutorial.com/">PostgreSQL Tutorial</a>
     <ul>
       <li><a href="https://www.postgresqltutorial.com/postgresql-getting-started/">Getting Started with PostgreSQL</a></li>
+      <li><a href="https://www.postgresqltutorial.com/postgresql-data-types/">PostgreSQL Data Types</a></li>
     </ul>
   </li>
 </ul>
