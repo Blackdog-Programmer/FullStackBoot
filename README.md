@@ -41,6 +41,8 @@
 
 #### [SQLAlchemy](https://www.sqlalchemy.org/)
 <ul>
+  <li><a href="https://t.ly/LwwK">SQLAlchemy Dialects</a></li>
+  
   <li><a href="https://t.ly/pHyB">SQLAlchemy Core</a></li>
   
   <li><a href="https://t.ly/3E8J">SQLAlchemy ORM</a></li>
