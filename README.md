@@ -44,3 +44,9 @@
 
   <li><a href="https://leetcode.com/">leetcode.com</a></li>
 </ul>
+
+
+# Others 
+<ul>
+  <li><a href="https://t.ly/YLw0">EPE249 - DB-API 2.0 Specification</a></li>
+</ul>
