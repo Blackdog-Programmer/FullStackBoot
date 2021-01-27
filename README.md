@@ -36,7 +36,7 @@
   <li><a href="https://www.psycopg.org/docs/usage.html">Basic Module Usage</a></li>
 </ul>
 
-### [SQL Alchemy](https://www.sqlalchemy.org/)
+### [SQLAlchemy](https://www.sqlalchemy.org/)
 <ul>
   <li><a href="https://t.ly/DRvB">SQL Alchemy Tutorial</a></li>
 </ul>
