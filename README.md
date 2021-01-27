@@ -5,6 +5,11 @@
   <li><a href="https://opensource.com/article/18/10/common-network-ports">ACID Properties in DBMS</a></li>
 </ul>
 
+# Materials
+<ul>
+  <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
+</ul>
+
 # Fonrt-End Application
 
 # Back-End Application
