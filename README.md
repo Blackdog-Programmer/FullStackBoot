@@ -63,7 +63,11 @@
   
   <li><a href="https://t.ly/pHyB">SQLAlchemy Core</a></li>
   
-  <li><a href="https://t.ly/3E8J">SQLAlchemy ORM</a></li>
+  <li><a href="https://t.ly/3E8J">SQLAlchemy ORM</a>
+    <ul>
+      <li><a href="https://t.ly/i4Ll">What is ORM(Object-relational mapping)</a></li>
+    </ul>
+  </li>
   
   <kbd><img src="https://t.ly/Q4Uj" alt="SQLAlchemy Structure"></kbd>  
 </ul>
