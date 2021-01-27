@@ -36,6 +36,12 @@
   <li><a href="https://www.psycopg.org/docs/usage.html">Basic Module Usage</a></li>
 </ul>
 
+### [SQL Alchemy](https://www.sqlalchemy.org/)
+<ul>
+  <li><a href="https://t.ly/DRvB">SQL Alchemy Tutorial</a></li>
+</ul>
+
+
 # Tips
 <ul>
   <li><a href="https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means">What Having a “Growth Mindset” Actually Means</a></li>
