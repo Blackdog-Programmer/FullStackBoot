@@ -48,5 +48,5 @@
 
 # Others 
 <ul>
-  <li><a href="https://t.ly/YLw0">EPE249 - DB-API 2.0 Specification</a></li>
+  <li><a href="https://t.ly/YLw0">PEP249 - DB-API 2.0 Specification</a></li>
 </ul>
