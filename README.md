@@ -42,7 +42,7 @@
   
   <li><a href="https://t.ly/3E8J">SQLAlchemy ORM</a></li>
   
-  <kbd><img src="https://tekshinobi.com/wp-content/uploads/2020/04/box-diag-sqla.jpg" alt="SQLAlchemy Structure"></kbd>  
+  <kbd><img src="https://t.ly/Q4Uj" alt="SQLAlchemy Structure"></kbd>  
 </ul>
 
 
