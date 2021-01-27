@@ -31,7 +31,7 @@
 
 <hr size="3">
 
-### DBAPIs - psycopg2, SQLAlchemy
+### DBAPIs - psycopg2, SQLAlchemy(ORM)
 #### [psycopg2 - Python DB API for PostgreSQL](https://www.psycopg.org/docs/)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
