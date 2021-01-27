@@ -53,7 +53,11 @@
 <ul>
   <li><a href="https://t.ly/LwwK">SQLAlchemy Dialects</a></li>
   
-  <li><a href="https://t.ly/YOZP">SQLAlchemy Connection Pooling</a></li>
+  <li><a href="https://t.ly/YOZP">SQLAlchemy Connection Pooling</a>
+    <ul>
+      <li><a href="https://t.ly/y2FB">What is Connection Pool</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://t.ly/TbqZ">SQLAlchemy Engine</a></li>
   
