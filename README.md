@@ -38,11 +38,11 @@
 
 ### [SQLAlchemy](https://www.sqlalchemy.org/)
 <ul>
-  <kbd><img src="https://tekshinobi.com/wp-content/uploads/2020/04/box-diag-sqla.jpg" alt="SQLAlchemy Structure"></kbd>
-  
   <li><a href="https://t.ly/pHyB">SQLAlchemy <u>Core</u></a></li>
   
   <li><a href="https://t.ly/3E8J">SQLAlchemy <u>ORM</u></a></li>
+  
+  <kbd><img src="https://tekshinobi.com/wp-content/uploads/2020/04/box-diag-sqla.jpg" alt="SQLAlchemy Structure"></kbd>  
 </ul>
 
 
