@@ -1,3 +1,8 @@
+# Articles
+<ul>
+  <li><a href="https://hackr.io/blog/flask-vs-django">Flask vs Django in 2021: Which Framework to Choose?</a></li>
+</ul>
+
 # References
 <ul>
   <li><a href="https://opensource.com/article/18/10/common-network-ports">14 common network ports you should know</a></li>
