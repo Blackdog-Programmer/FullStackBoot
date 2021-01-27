@@ -41,7 +41,7 @@
 
 <hr size="3">
 
-### DB Tollkit - psycopg2, SQLAlchemy(ORM)
+### DB Toolkit - psycopg2, SQLAlchemy(ORM)
 #### [psycopg2 - Python DB API for PostgreSQL](https://www.psycopg.org/docs/)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
