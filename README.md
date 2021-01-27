@@ -29,8 +29,7 @@
   <li><a href="https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/">How to Install PostgreSQL and pgAdmin4 in Ubuntu 20.04</a></li>
 </ul>
 
-### DBAPIs
-
+### DBAPIs - psycopg2, SQLAlchemy
 #### [psycopg2 - Python DB API for PostgreSQL](https://www.psycopg.org/docs/)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
@@ -38,7 +37,7 @@
   <li><a href="https://www.psycopg.org/docs/usage.html">Basic Module Usage</a></li>
 </ul>
 
-### [SQLAlchemy](https://www.sqlalchemy.org/)
+#### [SQLAlchemy](https://www.sqlalchemy.org/)
 <ul>
   <li><a href="https://t.ly/pHyB">SQLAlchemy Core</a></li>
   
