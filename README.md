@@ -3,6 +3,7 @@
   <li><a href="https://hackr.io/blog/flask-vs-django">Flask vs Django in 2021: Which Framework to Choose?</a></li>
 </ul>
 
+
 # References
 <ul>
   <li><a href="https://opensource.com/article/18/10/common-network-ports">14 common network ports you should know</a></li>
@@ -10,14 +11,19 @@
   <li><a href="https://opensource.com/article/18/10/common-network-ports">ACID Properties in DBMS</a></li>
 </ul>
 
+
 # Materials
 <ul>
   <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
 </ul>
 
-# Fonrt-End Application
 
-# Back-End Application
+# Fonrt-End Framework
+
+
+# Back-End Framework
+- [Flask - Web Dev Framework](https://flask.palletsprojects.com/en/1.1.x/)
+
 
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
