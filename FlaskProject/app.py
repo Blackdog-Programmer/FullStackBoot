@@ -2,7 +2,7 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-uri = 'postgresql+psycopg2://blackdog:#mu1561511@localhost:5432/sandbox'
+uri = 'postgresql+psycopg2://blackdog:blackdog@localhost:5432/sandbox'
 app.config['SQLALCHEMY_DATABASE_URI'] = uri
 db = SQLAlchemy(app)
 
