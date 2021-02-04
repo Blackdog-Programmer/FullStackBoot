@@ -25,6 +25,7 @@
 ## Web Framework
 - [Flask - Web Dev Framework](https://flask.palletsprojects.com/en/1.1.x/)
   - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+    - [Declaring Models](https://t.ly/K1rv)
 
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
@@ -57,6 +58,7 @@
 </ul>
 
 #### [SQLAlchemy](https://www.sqlalchemy.org/)
+- [Column and Data Types](https://t.ly/IhoM)
 <ul>
   <li><a href="https://t.ly/LwwK">SQLAlchemy Dialects</a></li>
   
