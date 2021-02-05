@@ -50,6 +50,7 @@
 <hr size="3">
 
 ### DB Toolkit - psycopg2, SQLAlchemy(ORM)
+#### [PEP 249 -- Python Database API Specification v2.0](https://t.ly/CUVp)
 #### [psycopg2 - Python-PostgreSQL Database Adapter](https://t.ly/Vem7)
 <ul>
   <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
