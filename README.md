@@ -43,12 +43,9 @@
 </ul>
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
-<ul>
-  <li><a href="https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/">How to Install PostgreSQL and pgAdmin4 in Ubuntu 20.04</a></li>
-</ul>
+- [How to install pgAdmin on Debian and Ubuntu](https://t.ly/nN6T)
 
-<hr size="3">
-
+---
 ### DB Toolkit - psycopg2, SQLAlchemy(ORM)
 #### [PEP 249 -- Python Database API Specification v2.0](https://t.ly/CUVp)
 #### [psycopg2 - Python-PostgreSQL Database Adapter](https://t.ly/Vem7)
