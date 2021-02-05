@@ -29,6 +29,7 @@
 
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
+- [Install PostgreSQL Linux](https://t.ly/tpTZ)
 <ul>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04">How To Install and Use PostgreSQL on Ubuntu</a></li>
   
