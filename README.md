@@ -44,6 +44,7 @@
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
 - [How to install pgAdmin on Debian and Ubuntu](https://t.ly/nN6T)
+- [Connect To a PostgreSQL Database Serve](https://t.ly/ZAb5)
 
 ---
 ### DB Toolkit - psycopg2, SQLAlchemy(ORM)
