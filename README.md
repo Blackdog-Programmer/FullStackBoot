@@ -31,16 +31,10 @@
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
 - [Install PostgreSQL Linux](https://t.ly/tpTZ)
 - [Use PostgreSQL on Ubuntu](https://t.ly/EIxB)
-<ul>
-  <li><a href="https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html">How to start, stop, and restart a postgresql server</a></li>  
-  
-  <li><a href="https://www.postgresqltutorial.com/">PostgreSQL Tutorial</a>
-    <ul>
-      <li><a href="https://www.postgresqltutorial.com/postgresql-getting-started/">Getting Started with PostgreSQL</a></li>
-      <li><a href="https://www.postgresqltutorial.com/postgresql-data-types/">PostgreSQL Data Types</a></li>
-    </ul>
-  </li>
-</ul>
+- [How to start, stop, and restart a postgresql server](https://t.ly/SP5d)
+- [PostgreSQL Tutorial](https://t.ly/WZxF)
+  - [Getting Started with PostgreSQL](https://t.ly/f3VY)
+  - [PostgreSQL Data Types](https://t.ly/HLrY)
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
 - [How to install pgAdmin on Debian and Ubuntu](https://t.ly/nN6T)
