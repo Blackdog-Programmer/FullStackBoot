@@ -34,6 +34,7 @@
 - [How to start, stop, and restart a postgresql server](https://t.ly/SP5d)
 - [PostgreSQL Tutorial](https://t.ly/WZxF)
   - [Getting Started with PostgreSQL](https://t.ly/f3VY)
+  - [Practical psql Commands](https://t.ly/DcaH)
   - [PostgreSQL Data Types](https://t.ly/HLrY)
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
