@@ -10,7 +10,7 @@
   
   <li><a href="https://opensource.com/article/18/10/common-network-ports">ACID Properties in DBMS</a></li>
 </ul>
--- [SQL Styile Guide](https://t.ly/OUdC)
+- [SQL Styile Guide](https://t.ly/OUdC)
 
 
 # Materials
