@@ -74,7 +74,7 @@
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
   - [ACID Properties in DBMS](https://t.ly/x5ri)
-- [SQL Styile Guide](https://t.ly/OUdC)
+- [SQL Style Guide](https://t.ly/OUdC)
 
 ---
 # Tips
