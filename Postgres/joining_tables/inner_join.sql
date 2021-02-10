@@ -1,44 +1,50 @@
 -- Ref: https://www.postgresqltutorial.com/postgresql-inner-join/
 
--- Typical INNER JOIN syntax
-SELECT
-    customer.customer_id,
-    CONCAT(first_name, ' ', last_name) AS full_name,
-    rental_date,
-    return_date
-FROM
-    customer
-INNER JOIN rental
-    ON customer.customer_id = rental.customer_id
-FETCH FIRST 10 ROW ONLY
-;
+-- Create Sample Tables
+CREATE TABLE amazon
+(
+    category_id   INT PRIMARY KEY,
+    category_name VARCHAR NOT NULL
+);
 
--- Using Keyword
-SELECT
-    customer.customer_id,
-    CONCAT(first_name, ' ', last_name) AS full_name,
-    rental_date,
-    return_date
-FROM
-    customer
-INNER JOIN rental USING(customer_id)
-FETCH FIRST 10 ROW ONLY
-;
+CREATE TABLE alibaba
+(
+    category_id   INT PRIMARY KEY,
+    category_name VARCHAR NOT NULL
+);
 
--- Joining multiple tables
+-- Insert Sample Records
+INSERT INTO amazon (category_id, category_name)
+VALUES
+    (1, 'automotive'),
+    (2, 'computer'),
+    (3, 'game'),
+    (4, 'book'),
+    (5, 'fashion');
+
+INSERT INTO alibaba (category_id, category_name)
+VALUES
+    (1, 'computer'),
+    (2, 'fashion'),
+    (3, 'automotive'),
+    (4, 'book'),
+    (5, 'game');
+
+-- INNER JOIN ON
 SELECT
-    CONCAT(c.first_name, ' ', c.last_name) AS customer_name,
-    c.email AS customer_email,
-    p.amount,
-    p.payment_date,
-    CONCAT(s.first_name, ' ', s.last_name) AS staff_name,
-    s.email AS staff_email,
-    s.username AS staff_username
+    *
 FROM
-    customer AS c
-INNER JOIN payment AS p
-    ON c.customer_id = p.customer_id
-INNER JOIN staff AS s
-    ON p.staff_id = s.staff_id
-FETCH FIRST 100 ROWS ONLY
-;
+    amazon
+INNER JOIN alibaba
+    ON amazon.category_name = alibaba.category_name;
+
+-- INNER JOIN USING
+SELECT
+    *
+FROM
+    amazon
+INNER JOIN alibaba USING(category_name);
+
+-- Drop Tables
+DROP TABLE amazon;
+DROP TABLE alibaba;
