@@ -6,8 +6,6 @@
 
 # References
 - [14 common network ports you should know](https://t.ly/UmRv)
-- [ACID Properties in DBMS](https://t.ly/x5ri)
-- [SQL Styile Guide](https://t.ly/OUdC)
 
 # Materials
 <ul>
@@ -73,6 +71,12 @@
 </ul>
 
 
+### DBMS References
+- [SQL | TRANSACTIONS](https://t.ly/oB3W)
+  - [ACID Properties in DBMS](https://t.ly/x5ri)
+- [SQL Styile Guide](https://t.ly/OUdC)
+
+---
 # Tips
 <ul>
   <li><a href="https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means">What Having a “Growth Mindset” Actually Means</a></li>
