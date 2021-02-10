@@ -29,9 +29,9 @@
 - [How to start, stop, and restart a postgresql server](https://t.ly/SP5d)
 - [Template Databases](https://t.ly/9cn1)
 - [PostgreSQL Tutorial](https://t.ly/WZxF)
+  - [PostgreSQL Data Types](https://t.ly/qhOK)
   - [Getting Started with PostgreSQL](https://t.ly/f3VY)
   - [Practical psql Commands](https://t.ly/DcaH)
-  - [PostgreSQL Data Types](https://t.ly/HLrY)
 
 ### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
 - [How to install pgAdmin on Debian and Ubuntu](https://t.ly/nN6T)
