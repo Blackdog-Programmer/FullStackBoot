@@ -35,7 +35,15 @@ SELECT
     *
 FROM
     amazon
-LEFT JOIN alibaba -- LEFT OUTER JOIN alibaba
+LEFT JOIN alibaba
+    ON amazon.category_name = alibaba.category_name;
+
+-- LEFT OUTER JOIN
+SELECT
+    *
+FROM
+    amazon
+LEFT OUTER JOIN alibaba
     ON amazon.category_name = alibaba.category_name;
 
 -- LEFT OUTER JOIN USING
