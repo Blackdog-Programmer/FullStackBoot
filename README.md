@@ -55,14 +55,9 @@
 
 ---
 # Tips
-<ul>
-  <li><a href="https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means">What Having a “Growth Mindset” Actually Means</a></li>
- 
-  <li><a href="https://interviewing.io/">interviewing.io</a></li>
-
-  <li><a href="https://leetcode.com/">leetcode.com</a></li>
-</ul>
-
+- [What Having a “Growth Mindset” Actually Means](https://t.ly/u8Y4)
+- [interviewing.io](https://t.ly/m1Nc)
+- [leetcode.com](https://t.ly/Mrw3)
 
 # Others
 - [PEP249 - DB-API 2.0 Specification](https://t.ly/YLw0)
