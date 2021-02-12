@@ -39,28 +39,14 @@
 
 #### [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Column and Data Types](https://t.ly/IhoM)
-<ul>
-  <li><a href="https://t.ly/LwwK">SQLAlchemy Dialects</a></li>
-  
-  <li><a href="https://t.ly/YOZP">SQLAlchemy Connection Pooling</a>
-    <ul>
-      <li><a href="https://t.ly/y2FB">What is Connection Pool</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://t.ly/TbqZ">SQLAlchemy Engine</a></li>
-  
-  <li><a href="https://t.ly/pHyB">SQLAlchemy Core</a></li>
-  
-  <li><a href="https://t.ly/3E8J">SQLAlchemy ORM</a>
-    <ul>
-      <li><a href="https://t.ly/i4Ll">What is ORM(Object-relational mapping)</a></li>
-    </ul>
-  </li>
-  
-  <kbd><img src="https://t.ly/Q4Uj" alt="SQLAlchemy Structure"></kbd>  
-</ul>
-
+- [SQLAlchemy Dialects](https://t.ly/LwwK)
+- [SQLAlchemy Connection Pooling](https://t.ly/YOZP)
+  - [What is Connection Pool](https://t.ly/y2FB)
+- [SQLAlchemy Engine](https://t.ly/TbqZ)
+- [SQLAlchemy Core](https://t.ly/pHyB)
+- [SQLAlchemy ORM](https://t.ly/3E8J)
+  - [What is ORM(Object-relational mapping)](https://t.ly/i4Ll)
+<kbd><img src="https://t.ly/Q4Uj" alt="SQLAlchemy Structure"></kbd>  
 
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
