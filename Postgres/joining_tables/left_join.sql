@@ -1,31 +1,50 @@
 -- Ref: https://www.postgresqltutorial.com/postgresql-left-join/
 
+-- Create Sample Tables
+CREATE TABLE amazon
+(
+    category_id   INT PRIMARY KEY,
+    category_name VARCHAR NOT NULL
+);
+
+CREATE TABLE alibaba
+(
+    category_id   INT PRIMARY KEY,
+    category_name VARCHAR NOT NULL
+);
+
+-- Insert Sample Records
+INSERT INTO amazon (category_id, category_name)
+VALUES
+    (1, 'automotive'),
+    (2, 'computer'),
+    (3, 'game'),
+    (4, 'book'),
+    (5, 'fashion');
+
+INSERT INTO alibaba (category_id, category_name)
+VALUES
+    (1, 'computer'),
+    (2, 'fashion'),
+    (3, 'automotive'),
+    (4, 'music'),
+    (5, 'pet');
+
+-- LEFT JOIN ON
 SELECT
-    COUNT(*)
+    *
 FROM
-    film
-INNER JOIN inventory
-    ON film.film_id = inventory.film_id
-;
+    amazon
+LEFT JOIN alibaba -- LEFT OUTER JOIN alibaba
+    ON amazon.category_name = alibaba.category_name;
 
-
+-- LEFT OUTER JOIN USING
 SELECT
-    COUNT(*)
+    *
 FROM
-    film
-LEFT JOIN inventory
-    ON film.film_id = inventory.film_id
-;
+    amazon
+LEFT OUTER JOIN alibaba USING(category_name);
 
-
-SELECT
-    film.film_id            AS film_id,
-    film.title              AS film_title,
-    inventory.inventory_id  AS inventory_id
-FROM
-    film
-LEFT JOIN inventory
-    ON film.film_id = inventory.film_id
-ORDER BY
-    inventory.film_id NULLS FIRST
-;
+-- Drop Tables
+DROP TABLE amazon;
+DROP TABLE alibaba;
