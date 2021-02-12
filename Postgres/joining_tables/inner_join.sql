@@ -27,8 +27,8 @@ VALUES
     (1, 'computer'),
     (2, 'fashion'),
     (3, 'automotive'),
-    (4, 'book'),
-    (5, 'game');
+    (4, 'music'),
+    (5, 'pet');
 
 -- INNER JOIN ON
 SELECT
