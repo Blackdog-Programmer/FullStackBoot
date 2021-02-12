@@ -1,20 +1,13 @@
 # Articles
-<ul>
-  <li><a href="https://hackr.io/blog/flask-vs-django">Flask vs Django in 2021: Which Framework to Choose?</a></li>
-</ul>
-
+- [Flask vs Django in 2021: Which Framework to Choose?](https://t.ly/gz7f)
 
 # References
 - [14 common network ports you should know](https://t.ly/UmRv)
 
 # Materials
-<ul>
-  <li><a href="https://www.fullstackpython.com/">Full Stack Python</a></li>
-</ul>
-
+- [Full Stack Python](https://t.ly/XCXX)
 
 # Fonrt-End Framework
-
 
 # Back-End Framework
 ## Web Framework
@@ -41,11 +34,8 @@
 ### DB Toolkit - psycopg2, SQLAlchemy(ORM)
 #### [PEP 249 -- Python Database API Specification v2.0](https://t.ly/CUVp)
 #### [psycopg2 - Python-PostgreSQL Database Adapter](https://t.ly/Vem7)
-<ul>
-  <li><a href="https://www.psycopg.org/docs/install.html">psycopg2 install and instruction</a></li>
-  
-  <li><a href="https://www.psycopg.org/docs/usage.html">Basic Module Usage</a></li>
-</ul>
+- [psycopg2 install and instruction](https://t.ly/i95y)
+- [Basic Module Usage](https://t.ly/AjZ3)
 
 #### [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Column and Data Types](https://t.ly/IhoM)
@@ -88,7 +78,5 @@
 </ul>
 
 
-# Others 
-<ul>
-  <li><a href="https://t.ly/YLw0">PEP249 - DB-API 2.0 Specification</a></li>
-</ul>
+# Others
+- [PEP249 - DB-API 2.0 Specification](https://t.ly/YLw0)
