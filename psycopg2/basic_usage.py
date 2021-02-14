@@ -1,31 +1,32 @@
 import psycopg2
 
-# establish database connection
-conn = psycopg2.connect(database="sandbox", user="blackdog")
+# Establish database connection
+conn = psycopg2.connect(dbname='tesla', user='postgres', password='postgres', host='localhost', port=5432)
 
-# open a cursor to perfrom database operations
+# Open a cursor to perform database operations
 cur = conn.cursor()
 
-# drop table if exists
-cur.execute("DROP TABLE IF EXISTS employee;")
-
-# create database table
+# Create database table
+cur.execute("DROP TABLE IF EXISTS model;")
 cur.execute("""
-  CREATE TABLE employee
+  CREATE TABLE model
   (
-      id serial PRIMARY KEY,
-      firstname VARCHAR NOT NULL,
-      lastname  VARCHAR NOT NULL,
-      position  VARCHAR NOT NULL
+      model_id serial PRIMARY KEY,
+      model_name VARCHAR NOT NULL
   );
 """)
 
-# insert data
-cur.execute("INSERT INTO employee(firstname, lastname, position) VALUES('SANG CHUL', 'SONG', 'Software Engineer');")
+# Insert data
+cur.execute("""
+    INSERT INTO model(model_name) 
+    VALUES('Model X');
+    INSERT INTO model(model_name) 
+    VALUES('Model Y');    
+""")
 
-# commit
+# Commit Transaction
 conn.commit()
 
-# end connnection
+# End Session
 cur.close()
 conn.close()
