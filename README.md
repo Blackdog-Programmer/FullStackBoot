@@ -34,7 +34,7 @@
 #### [PopSQL - for MacOS](https://popsql.com)
 
 ---
-### DB Toolkit - psycopg2, SQLAlchemy(ORM)
+### DB Adapter - psycopg2, SQLAlchemy(ORM)
 #### [PEP 249 -- Python Database API Specification v2.0](https://t.ly/CUVp)
 #### [psycopg2 - Python-PostgreSQL Database Adapter](https://t.ly/Vem7)
 - [psycopg2 install and instruction](https://t.ly/i95y)
