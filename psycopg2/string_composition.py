@@ -1,36 +1,30 @@
 import psycopg2
 
-# Connect to database
-conn = psycopg2.connect("dbname=sandbox user=blackdog")
+# Establish database connection
+conn = psycopg2.connect(dbname='tesla', user='postgres', password='postgres', host='localhost', port=5432)
 
-# Open cursor
+# Open a cursor to perform database operations
 cur = conn.cursor()
 
-# Drop table if exists
-cur.execute("DROP TABLE IF EXISTS table2;")
+# Create database table
+cur.execute("DROP TABLE IF EXISTS model;")
+cur.execute("""
+  CREATE TABLE model
+  (
+      model_id serial PRIMARY KEY,
+      model_name VARCHAR NOT NULL
+  );
+""")
 
-# Create table
-cur.execute('''
-    CREATE TABLE table2 (
-        id        INTEGER  PRIMARY KEY,
-        completed BOOLEAN NOT NULL DEFAULT False
-    );
-''')
-
-# Insert using 'Tuple'
-cur.execute('INSERT INTO table2(id, completed) VALUES (%s, %s);', (1, True))
-
-# Insert using 'Dictionary'
-cur.execute('INSERT INTO table2(id, completed) VALUES (%(id)s, %(completed)s);', {'id':2, 'completed': False})
-
-# Vriable format
-query = 'INSERT INTO table2(id, completed) VALUES (%(id)s, %(completed)s);'
-data = {'id':3, 'completed': True}
-cur.execute(query, data)
+# Insert data
+# Using Tuple Format
+cur.execute('INSERT INTO model(model_name) VALUES(%s);', ('Model X'));
+# Using Dictionary Format
+cur.execute('INSERT INTO model(model_name) VALUES(%(mdoel_name)s);', {'model_name': 'Model Y'});
 
 # Commit Transaction
 conn.commit()
 
-# Close connection
+# Close DB Session
 cur.close()
 conn.close()
