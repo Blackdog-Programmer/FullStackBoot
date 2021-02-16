@@ -26,9 +26,12 @@
   - [Getting Started with PostgreSQL](https://t.ly/f3VY)
   - [Practical psql Commands](https://t.ly/DcaH)
 
-### [pgAdmin - PostgreSQL GUI Tool](https://www.pgadmin.org/)
+### PostgreSQL GUI Tool
+#### [pgAdmin](https://www.pgadmin.org)
 - [How to install pgAdmin on Debian and Ubuntu](https://t.ly/nN6T)
 - [Connect To a PostgreSQL Database Serve](https://t.ly/ZAb5)
+
+#### [PopSQL - for MacOS](https://popsql.com)
 
 ---
 ### DB Toolkit - psycopg2, SQLAlchemy(ORM)
