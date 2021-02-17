@@ -65,3 +65,4 @@
 
 # Others
 - [PEP249 - DB-API 2.0 Specification](https://t.ly/YLw0)
+- [Node.js ORMs and why you shouldn’t use them](https://t.ly/L2tht)
