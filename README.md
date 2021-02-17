@@ -38,6 +38,7 @@
 #### [PEP 249 -- Python Database API Specification v2.0](https://t.ly/CUVp)
 #### [psycopg2 - Python-PostgreSQL Database Adapter](https://t.ly/Vem7)
 - [psycopg2 install and instruction](https://t.ly/i95y)
+- [Adaptation of Python values to SQL types](https://t.ly/Gn6j)
 - [Basic Module Usage](https://t.ly/AjZ3)
 
 #### [SQLAlchemy](https://www.sqlalchemy.org/)
