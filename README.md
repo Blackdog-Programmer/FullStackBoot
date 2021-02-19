@@ -50,7 +50,7 @@
 - [SQLAlchemy Core](https://t.ly/pHyB)
 - [SQLAlchemy ORM](https://t.ly/3E8J)
   - [What is ORM(Object-relational mapping)](https://t.ly/i4Ll)
-<kbd><img src="https://t.ly/Q4Uj" alt="SQLAlchemy Structure"></kbd>  
+<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>  
 
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
