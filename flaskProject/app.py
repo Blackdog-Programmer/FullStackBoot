@@ -18,7 +18,8 @@ db.create_all()
 
 @app.route('/')
 def index():
-    return 'Hello World!'
+    tesla_model = CarModel.query.first()
+    return tesla_model.name
 
 
 if __name__ == '__main__':
