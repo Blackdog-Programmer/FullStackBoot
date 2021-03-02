@@ -22,10 +22,9 @@ db.create_all()
 
 @app.route('/')
 def index():
-    tesla_models = Model.query.all()
-    if len(tesla_models) != 0:
-        for model in tesla_models:
-            return repr(model)
+    tesla_model = Model.query.first()
+    if tesla_model is not None:
+        return f'Tesla Model: {tesla_model.name}'
     else:
         return 'There are not tesla models launched yet'
 
