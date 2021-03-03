@@ -41,7 +41,8 @@
 - [Adaptation of Python values to SQL types](https://t.ly/Gn6j)
 - [Basic Module Usage](https://t.ly/AjZ3)
 
-#### [SQLAlchemy](https://www.sqlalchemy.org/)
+#### [SQLAlchemy](https://t.ly/ENWX)
+- [Connecting to Database](https://t.ly/kq3f)
 - [Column and Data Types](https://t.ly/IhoM)
 - [SQLAlchemy Dialects](https://t.ly/LwwK)
 - [SQLAlchemy Connection Pooling](https://t.ly/YOZP)
