@@ -46,14 +46,7 @@
 ##### [SQLAlchemy Core](https://t.ly/G6mZ)
 - [Connecting to Database](https://t.ly/kq3f)
 - [Creating Table](https://t.ly/HeEb)
-- [Column and Data Types](https://t.ly/IhoM)
-- [SQLAlchemy Dialects](https://t.ly/LwwK)
-- [SQLAlchemy Connection Pooling](https://t.ly/YOZP)
-  - [What is Connection Pool](https://t.ly/y2FB)
-- [SQLAlchemy Engine](https://t.ly/TbqZ)
-- [SQLAlchemy Core](https://t.ly/pHyB)
-- [SQLAlchemy ORM](https://t.ly/3E8J)
-  - [What is ORM(Object-relational mapping)](https://t.ly/i4Ll)
+- [SQL Expressions](https://t.ly/6it1)
 
 ##### SQLAlchemy ORM
 
