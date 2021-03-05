@@ -45,6 +45,7 @@
 <kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>  
 ##### [SQLAlchemy Core](https://t.ly/G6mZ)
 - [Connecting to Database](https://t.ly/kq3f)
+- [Creating Table](https://t.ly/HeEb)
 - [Column and Data Types](https://t.ly/IhoM)
 - [SQLAlchemy Dialects](https://t.ly/LwwK)
 - [SQLAlchemy Connection Pooling](https://t.ly/YOZP)
