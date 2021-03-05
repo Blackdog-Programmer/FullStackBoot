@@ -42,6 +42,7 @@
 - [Basic Module Usage](https://t.ly/AjZ3)
 
 #### [SQLAlchemy](https://t.ly/ENWX)
+<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>  
 ##### SQLAlchemy Core
 - [Connecting to Database](https://t.ly/kq3f)
 - [Column and Data Types](https://t.ly/IhoM)
@@ -52,7 +53,8 @@
 - [SQLAlchemy Core](https://t.ly/pHyB)
 - [SQLAlchemy ORM](https://t.ly/3E8J)
   - [What is ORM(Object-relational mapping)](https://t.ly/i4Ll)
-<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>  
+
+##### SQLAlchemy ORM
 
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
