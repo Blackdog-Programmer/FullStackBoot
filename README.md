@@ -47,6 +47,7 @@
 - [Connecting to Database](https://t.ly/kq3f)
 - [Creating Table](https://t.ly/HeEb)
 - [SQL Expressions](https://t.ly/6it1)
+- [Executing Expression](https://t.ly/7NgB)
 
 ##### SQLAlchemy ORM
 
