@@ -56,6 +56,7 @@
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
   - [ACID Properties in DBMS](https://t.ly/x5ri)
 - [SQL Style Guide](https://t.ly/OUdC)
+<kbd><img src="https://t.ly/ee4N" alt="SQLAlchemy Core vs ORM"></kbd>
 
 ---
 # Tips
