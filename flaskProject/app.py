@@ -11,7 +11,7 @@ db = SQLAlchemy(app)
 class Model(db.Model):
     __tablename__ = 'models'
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(), nullable=False)
+    name = db.Column(db.String(), unique=True, nullable=False)
 
     def __repr__(self):
         return f'Tesla Model Name: {self.name}'
