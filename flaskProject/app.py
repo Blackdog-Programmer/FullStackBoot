@@ -2,7 +2,7 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://postgres:postgres@localhost:5432/tesla'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://postgres:postgres@localhost:5432/tanks'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
@@ -14,7 +14,7 @@ class Model(db.Model):
     name = db.Column(db.String(), unique=True, nullable=False)
 
     def __repr__(self):
-        return f'Tesla Model Name: {self.name}'
+        return f'Tank Model: {self.name}'
 
 
 db.create_all()
@@ -22,11 +22,11 @@ db.create_all()
 
 @app.route('/')
 def index():
-    tesla_model = Model.query.first()
-    if tesla_model is not None:
-        return f'Tesla Model: {tesla_model.name}'
+    tank_model = Model.query.first()
+    if tank_model is not None:
+        return f'Tank Model Name: {tank_model.name}'
     else:
-        return 'There are not tesla models launched yet'
+        return 'There does not exist tank models launched yet'
 
 
 if __name__ == '__main__':
