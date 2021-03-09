@@ -12,10 +12,7 @@
 # Back-End Framework
 ## Web Framework
 - [Flask - Web Dev Framework](https://flask.palletsprojects.com/en/1.1.x/)
-  - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
-    - [Declaring Models](https://t.ly/K1rv)
-      - [Quickstart](https://t.ly/wcyA)
-    - [PostgreSQL Data Types](https://t.ly/lWj5)
+  - [Flask-SQLAlchemy](https://t.ly/2GZx)
 
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
