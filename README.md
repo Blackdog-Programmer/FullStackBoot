@@ -48,7 +48,7 @@
 - [Executing Expression](https://t.ly/7NgB)
 
 ##### SQLAlchemy ORM
-<kbd><img src="https://t.ly/ee4N" alt="SQLAlchemy Core vs ORM"></kbd>
+<kbd><img src="https://t.ly/n5vb" alt="SQLAlchemy Core vs ORM"></kbd>
 
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
