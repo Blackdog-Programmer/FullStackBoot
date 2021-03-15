@@ -14,6 +14,7 @@
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   - [Flask-SQLAlchemy](https://t.ly/2GZx)
     - [Configuration](https://t.ly/dNF9)
+    - [Declaring Models](https://t.ly/PL1G)
 
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
