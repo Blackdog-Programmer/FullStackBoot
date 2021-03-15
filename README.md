@@ -42,12 +42,10 @@
 - [Basic Module Usage](https://t.ly/AjZ3)
 
 #### [SQLAlchemy](https://t.ly/ENWX)
-<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>
 <kbd><img src="https://t.ly/n5vb" alt="SQLAlchemy Core vs ORM"></kbd>
-
-##### [SQLAlchemy ORM](https://t.ly/SJAt)
-
-##### [SQLAlchemy Core](https://t.ly/NpDE)
+- [SQLAlchemy ORM](https://t.ly/SJAt)
+- [SQLAlchemy Core](https://t.ly/NpDE)
+<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>
 
 
 ### DBMS References
