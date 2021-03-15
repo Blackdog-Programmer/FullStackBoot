@@ -10,9 +10,11 @@ db = SQLAlchemy(app)
 
 
 class Product(db.Model):
+    __tablename__ = 'products'
+
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(), nullable=False)
-    category_id = db.Column(db.Integer, db.ForeignKey('category.id'), nullable=True)
+    category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=True)
     category = db.relationship('Category', backref=db.backref('products', lazy=True))
 
     def __repr__(self):
@@ -20,6 +22,8 @@ class Product(db.Model):
 
 
 class Category(db.Model):
+    __tablename__ = 'categories'
+
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(), unique=True, nullable=False)
 
