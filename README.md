@@ -42,15 +42,13 @@
 - [Basic Module Usage](https://t.ly/AjZ3)
 
 #### [SQLAlchemy](https://t.ly/ENWX)
-<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>  
-##### [SQLAlchemy Core](https://t.ly/G6mZ)
-- [Connecting to Database](https://t.ly/kq3f)
-- [Creating Table](https://t.ly/HeEb)
-- [SQL Expressions](https://t.ly/6it1)
-- [Executing Expression](https://t.ly/7NgB)
-
-##### SQLAlchemy ORM
+<kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>
 <kbd><img src="https://t.ly/n5vb" alt="SQLAlchemy Core vs ORM"></kbd>
+
+##### [SQLAlchemy ORM](https://t.ly/SJAt)
+
+##### [SQLAlchemy Core](https://t.ly/NpDE)
+
 
 ### DBMS References
 - [SQL | TRANSACTIONS](https://t.ly/oB3W)
