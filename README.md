@@ -44,7 +44,7 @@
 #### [SQLAlchemy](https://t.ly/ENWX)
 1. [SQLAlchemy ORM](https://t.ly/SJAt)
 2. [SQLAlchemy Core](https://t.ly/NpDE)
-![SQLAlchemy Core vs ORM](https://t.ly/n5vb)
+  ![SQLAlchemy Core vs ORM](https://t.ly/n5vb)
 <kbd><img src="https://t.ly/Brvw" alt="SQLAlchemy Structure"></kbd>
 
 
