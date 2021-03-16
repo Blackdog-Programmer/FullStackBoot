@@ -7,7 +7,7 @@
 # Materials
 - [Full Stack Python](https://t.ly/XCXX)
 
-# Fonrt-End Framework
+# Front-End Framework
 
 # Back-End Framework
 ## Web Framework
