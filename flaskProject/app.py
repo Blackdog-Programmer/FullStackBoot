@@ -1,6 +1,5 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.orm import joinedload
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://postgres:postgres@localhost:5432/eshop'
@@ -15,6 +14,9 @@ class Customer(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(), nullable=False)
     email = db.Column(db.String(), nullable=False)
+
+    def __repr__(self):
+        return f'<Name: {self.name}, Email: {self.email}>'
 
 
 class Product(db.Model):
@@ -45,7 +47,7 @@ db.create_all()
 @app.route('/')
 def index():
     ret = ''
-    query = Category.query.options(joinedload('products'))
+    query = Category.query.join('products')
     for category in query:
         ret += f'{str(category)} {str(category.products)}\n'
 
