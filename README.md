@@ -9,6 +9,7 @@
 
 # Web Framework
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+  - [Quickstart](https://t.ly/vsPU)
   - [Tutorial](https://t.ly/Ca93)
   - [Flask-SQLAlchemy](https://t.ly/2GZx)
     - [Configuration](https://t.ly/dNF9)
