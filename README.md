@@ -16,7 +16,8 @@
     - [Declaring Models](https://t.ly/PL1G)
 ![MVC Architecture](https://t.ly/Ca93)
   - [Flask-Migrate](https://t.ly/di9e)
-
+    - [Alembic’s documentation](https://t.ly/dWDg)
+     
 ## DBMS
 ### [PostgreSQL: open-source relational database system](https://www.postgresql.org/)
 - [Install PostgreSQL Linux](https://t.ly/tpTZ)
