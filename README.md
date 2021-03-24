@@ -14,6 +14,7 @@
   - [Flask-SQLAlchemy](https://t.ly/2GZx)
     - [Configuration](https://t.ly/dNF9)
     - [Declaring Models](https://t.ly/PL1G)
+  - [Flask-Migrate](https://t.ly/di9e)
 
 ![MVC Architecture](https://t.ly/Ca93)
 
