@@ -18,8 +18,8 @@
   </form>
 
   <ul id="todos">
-    {% for d in data %}
-    <li>{{ d.description }}</li>
+    {% for todo in todo_list %}
+    <li>{{ todo.description }}</li>
     {% endfor %}
   </ul>
 

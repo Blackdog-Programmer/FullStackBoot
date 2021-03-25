@@ -47,7 +47,7 @@ def create_todo():
 
 @app.route('/')
 def index():
-    return render_template('index.html', data=ToDo.query.all())
+    return render_template('index.html', todo_list=ToDo.query.all())
 
 
 if __name__ == '__main__':
